@@ -97,7 +97,7 @@ $user_data = mysqli_fetch_array($run);
           }
           if ($user_data['about_section']) {
           ?>
-            <li><a href="#about">About</a></li>
+            <li><a href="#about">About Me</a></li>
           <?php
           }
           if ($user_data['resume_section']) {
