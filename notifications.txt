@@ -1,0 +1,45 @@
+Webhook received at 2024-12-08 10:14:37
+Received Data: Array
+(
+    [object] => page
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [id] => PAGE_ID
+                    [time] => 1631561582000
+                    [messaging] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [sender] => Array
+                                        (
+                                            [id] => 9116792565040162
+                                        )
+
+                                    [recipient] => Array
+                                        (
+                                            [id] => 155775500588389
+                                        )
+
+                                    [timestamp] => 1631561582000
+                                    [message] => Array
+                                        (
+                                            [mid] => mid.1631561582108:bdddb4a6fb
+                                            [text] => Hello, how are you?
+                                            [seq] => 1
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+
+Sent Response: 1
+
